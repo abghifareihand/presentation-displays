@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace = "com.rekalaba.presentation_displays"
+    namespace = "com.namit.presentation_displays"
     compileSdkVersion 33
 
     sourceSets {
